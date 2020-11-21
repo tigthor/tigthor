@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://im7.ezgif.com/tmp/ezgif-7-d097b4206031.gif" alt="tigthor" height="340" width="900" /> </h1>
+<h1 align="center"> <img src="https://im7.ezgif.com/tmp/ezgif-7-530d3a6a601d.gif" alt="tigthor" height="340" width="900" /> </h1>
 <h1 align="center">Hi 👋, I'm Tigthor</h1>
 <h3 align="center">A Passionate MEAN/MERN/PERN Fullstack Web Developer,Professional Cyber Analyst and Part-Time Bug-bounty Hunter</h3>
 
