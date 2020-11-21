@@ -43,5 +43,5 @@
 <h5 align="center">TIME IS RUNNING OUT</h5>
 
 
-<a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="50%" height="50%"></a>
+<a href="https://hackerone.com"><img align="center" src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="50%" height="50%"></a>
 
