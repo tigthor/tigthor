@@ -39,5 +39,5 @@
 
 <h5 align="center"><strong>TIME IS RUNNING OUT</strong></h5>
 <p align="center">
-<a href="h" target="blank"><img align="center" src="https://im7.ezgif.com/tmp/ezgif-7-d097b4206031.gif" alt="tigthor" height="300" width="400" /></a>
+<a href="h" target="blank"><img align="center" src="ezgif-7-d097b4206031.gif" alt="tigthor" height="300" width="400" /></a>
 <a href="h" target="blank"><img align="center" src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" alt="tigthor" height="300" width="400" /></a>
