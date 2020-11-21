@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigthor&show_icons=true&locale=en" alt="tigthor" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">TIME IS RUNNING OUT:</h3>
 
 <a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="50%" height="50%"></a>
 
