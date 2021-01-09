@@ -1,6 +1,10 @@
 
 <h1 align="center"> <img src="ezgif.com-gif-maker.gif" alt="tigthor" /> </h1>
-<h3 align="center">A Passionate MEAN/MERN/PERN Fullstack Web Developer,Professional Cyber Analyst and Part-Time Bug-bounty Hunter</h3>
+<h3 align="center">
+   <strong><i>
+      <font face="ambit"> A Passionate MEAN/MERN/PERN Fullstack Web Developer,Professional Cyber Analyst and Part-Time Bug-bounty Hunter </font>
+         </i>
+      </strong></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tigthor&label=Profile%20views&color=0e75b6&style=flat" alt="tigthor" /> </p>
 
