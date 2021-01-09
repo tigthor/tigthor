@@ -2,24 +2,11 @@
 <h1 align="center"> <img src="ezgif.com-gif-maker.gif" alt="tigthor" /> </h1>
 <h3 align="center">
    <strong><i>
-      <font face="ambit"> A Passionate MEAN/MERN/PERN Fullstack Web Developer,Professional Cyber Analyst and Part-Time Bug-bounty Hunter </font>
+      <font size="6" face="times new roman"> A Passionate MEAN/MERN/PERN Fullstack Web Developer,Professional Cyber Analyst and Part-Time Bug-bounty Hunter </font>
          </i>
       </strong></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tigthor&label=Profile%20views&color=0e75b6&style=flat" alt="tigthor" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigthor" alt="tigthor" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/tigthor" target="blank"><img src="https://img.shields.io/twitter/follow/tigthor?logo=twitter&style=for-the-badge" alt="tigthor1337" /></a> </p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tigthor" height="30" width="40" /></a>
-<a href="https://dev.to/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tigthor" height="30" width="40" /></a>
-<a href="https://twitter.com/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tigthor" height="30" width="40" /></a>
-<a href="https://medium.com/@tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tigthor" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tigthor" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="left"> 
@@ -48,6 +35,19 @@
    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </p>
+
+<p align="center"> <a href="https://twitter.com/tigthor" target="blank"><img src="https://img.shields.io/twitter/follow/tigthor?logo=twitter&style=for-the-badge" alt="tigthor1337" /></a> </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tigthor" height="30" width="40" /></a>
+<a href="https://dev.to/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tigthor" height="30" width="40" /></a>
+<a href="https://twitter.com/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tigthor" height="30" width="40" /></a>
+<a href="https://medium.com/@tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tigthor" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tigthor" height="30" width="40" /></a>
+</p>
+
+
 
    ## &#x1f4c8; GitHub Stats
 -------------------------------
