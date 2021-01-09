@@ -8,14 +8,6 @@
 
 <p align="center"> <a href="https://twitter.com/tigthor" target="blank"><img src="https://img.shields.io/twitter/follow/tigthor?logo=twitter&style=for-the-badge" alt="tigthor1337" /></a> </p>
 
-- 🔭 I’m currently working on **Private personal stuff**
-- 🌱 I’m currently learning **Pawning the internet,React and OSCP**
-- 👯 I’m looking to collaborate on **Web Development,Bug Bounties,Machine Learning, AI,Pawnage tools creation and Web application**
-- 🤝 I’m looking for help with **Golang**
-- 💬 Ask me about **Web Programming ,Computer Pawnage, Web app pentest and Bug Bounties**
-- 📫 How to reach me **DM Twitter @tigthor**
-- ⚡ Fun fact **I am beyond your expectation**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tigthor" height="30" width="40" /></a>
@@ -50,7 +42,7 @@
    <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
    <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>"
+   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </p>
 
    ## &#x1f4c8; GitHub Stats
