@@ -38,16 +38,6 @@
 
 <p align="center"> <a href="https://twitter.com/tigthor" target="blank"><img src="https://img.shields.io/twitter/follow/tigthor?logo=twitter&style=for-the-badge" alt="tigthor1337" /></a> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tigthor" height="30" width="40" /></a>
-<a href="https://dev.to/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tigthor" height="30" width="40" /></a>
-<a href="https://twitter.com/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tigthor" height="30" width="40" /></a>
-<a href="https://medium.com/@tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tigthor" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tigthor" height="30" width="40" /></a>
-</p>
-
-
 
    ## &#x1f4c8; GitHub Stats
 -------------------------------
@@ -61,3 +51,12 @@
 <h5 align="center"><strong>Don't worry the world is round today is me tommorrow is you</strong></h5>
 <p align="center">
 <a href="h" target="blank"><img align="center" src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" alt="tigthor" height="300" width="400" /></a>
+ 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tigthor" height="30" width="40" /></a>
+<a href="https://dev.to/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tigthor" height="30" width="40" /></a>
+<a href="https://twitter.com/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tigthor" height="30" width="40" /></a>
+<a href="https://medium.com/@tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tigthor" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tigthor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tigthor" height="30" width="40" /></a>
+</p>
