@@ -38,13 +38,66 @@
 
 <p align="center"> <a href="https://twitter.com/tigthor" target="blank"><img src="https://img.shields.io/twitter/follow/tigthor?logo=twitter&style=for-the-badge" alt="tigthor1337" /></a> </p>
 
+<h3 align="center"><b>My OPEN SOURCE CONTRIBUTION<b></h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/tigthor/hacktoolkit"><b>Simplified Tool for Global Hackers. From Information Gathering to Exploitation and maintaining access </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tigthor/hacktoolkit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tigthor/hacktoolkit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tigthor/hacktoolkit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tigthor/hacktoolkit?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+	    <td><a href="https://github.com/tigthor/neural-network-hacking"><b>Deep learning hacking && Weaponizing AI in Offensive security </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tigthor/neural-network-hacking?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tigthor/neural-network-hacking?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tigthor/neural-network-hacking?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tigthor/neural-network-hacking?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+	    <td><a href="https://github.com/tigthor/chat-app"><b>PERN(Postgres,Express,React and Node.js) Stack Chat application with modern technologies like socket.io </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tigthor/chat-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tigthor/chat-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tigthor/chat-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tigthor/chat-app?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+	    <td><a href="https://github.com/tigthor/r-dataflow-programming"><b>Dataflow Programming for Machine Learning in R </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tigthor/r-dataflow-programming?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tigthor/r-dataflow-programming?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tigthor/r-dataflow-programming?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tigthor/r-dataflow-programming?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+	    <td><a href="https://github.com/tigthor/NSABlocklist"><b>HOSTS file and research project to block all known NSA / GCHQ / C.I.A. / F.B.I. spying server </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tigthor/NSABlocklist?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tigthor/NSABlocklist?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tigthor/NSABlocklist?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tigthor/NSABlocklist?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     
+  </tbody>
+</table>
+
 
    ## &#x1f4c8; GitHub Stats
 -------------------------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigthor&show_icons=true&locale=en&count_private=true&layout=compact&langs_count=8" alt="tigthor" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigthor&show_icons=true&locale=en&count_private=true&layout=compact&langs_count=8" width="400" height="280" alt="tigthor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigthor&show_icons=true&count_private=true&locale=en&theme=cobalt" alt="tigthor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigthor&show_icons=true&count_private=true&locale=en&theme=cobalt" height="280" width="400" alt="tigthor" /></p>
+
+
 
 ##
 
