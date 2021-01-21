@@ -1,8 +1,8 @@
+I am open,collaborative and passionate about technology, I have skills in web development, penetration testing and other relevant threat analysis skills. I have been coding since 2015 and since then my journey has been about using coding by finding some solutions to the problems faced by society. I am always open for anyone who need help and who want my contribution on his/her project.
 
-<h1 align="center"> <img src="ezgif.com-gif-maker.gif" alt="tigthor" /> </h1>
 <h3 align="center">
    <strong><i>
-      <font size="6" face="times new roman"> A Passionate MEAN/MERN/PERN Fullstack Web Developer,Professional Cyber Analyst and Part-Time Bug-bounty Hunter </font>
+      <font size="6" face="times new roman"> A Passionate MEAN/MERN/PERN Fullstack Web Developer,Professional Cyber Analyst</font>
          </i>
       </strong></h3>
 
@@ -100,10 +100,6 @@
 
 
 ##
-
-<h5 align="center"><strong>Don't worry the world is round today is me tommorrow is you</strong></h5>
-<p align="center">
-<a href="h" target="blank"><img align="center" src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" alt="tigthor" height="300" width="400" /></a>
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
