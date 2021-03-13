@@ -36,8 +36,6 @@ I am open,collaborative and passionate about technology, I have skills in web de
    <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </p>
 
-<p align="center"> <a href="https://twitter.com/tigthor" target="blank"><img src="https://img.shields.io/twitter/follow/tigthor?logo=twitter&style=for-the-badge" alt="tigthor" /></a> </p>
-
 <h3 align="center"><b>My OPEN SOURCE CONTRIBUTION<b></h3>
 <table>
   <thead align="center">
