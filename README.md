@@ -1,4 +1,4 @@
-I am open,collaborative and passionate about technology, I have skills in web development, penetration testing and other relevant threat analysis skills. I have been coding since 2015 and since then my journey has been about using coding by finding some solutions to the problems faced by society. I am always open for anyone who need help and who want my contribution on his/her project.
+I am open,collaborative and passionate about technology, I have skills in web development, penetration testing and other relevant threat analysis skills. I have been coding since 2009 and since then my journey has been about using coding by finding some solutions to the problems faced by society. I am always open for anyone who need help and who want my contribution on his/her project.
 
 <h3 align="center">
    <strong><i>
