@@ -1,10 +1,28 @@
-I am open,collaborative and passionate about technology, I have skills in web development, penetration testing and other relevant threat analysis skills. I have been coding since 2009 and since then my journey has been about using coding by finding some solutions to the problems faced by society. I am always open for anyone who need help and who want my contribution on his/her project.
-
 <h3 align="center">
    <strong><i>
-      <font size="6" face="times new roman"> A Passionate MEAN/MERN/PERN Fullstack Web Developer,Professional Cyber Analyst</font>
+      <font size="7" face="times new roman"> A Passionate Blockchain Architect & Web/Moblie Engineer | Ethereum Bitcoin Solana</font>
          </i>
       </strong></h3>
+I'm an expert-level developer with more than 10 years of development experience. I'm capable of handling much more complex code and working much faster than the vast majority of software developers.
+
+* ⭐️ Master of Science in Computer Science, option Embedded Systems.
+* ⭐️ Languages: C++, Javascript, Python, PHP, SQL, VHDL, Swift, Rust, Objective-C, Haskell, Asm, C, Java, Pascal, Delphi, Ruby, CoffeeScript
+* ⭐️ Libraries/Technologies: React, Vue, Angular, Redux, Next.js, Nginx, Apache, Websockets, Browser extensions/add-ons, webp, vorbis, flac, theora, vpx, ogg, png, zip, z, gmp, FreeType, cgicc, magick, bitcion, p2pool, CImg, OpenCL, OpenGL, OpenGL ES, OpenSLES, Core Audio Services, MPI, POSIX, iOs Camera Recording, Google Maps, Qt, GPU, FPGA, fabric (js), bitcion, ethereum, monero, Arrayent Internet-of-Things (IOT) cloud API, Cryptocurrency Exchange APIs, Node.js, Websockets, Backbone.js
+
+* ⭐️ Platforms: Linux, OS X, iOs, Android, Windows (3.1, 95, XP, NT, 2000, 8, RT), LAMP
+
+
+### Cryptocurrencies/blockchain experience
+* ⭐ Implementation of the state-of-the-art proof-of-stake consensus protocol iChing in a new blockchain forked from Ethereum
+* ⭐️ Cryptocurrency exchange development involving communication through the RPC-JSON interface to monitor withdrawals and deposits of bitcoin and other compatible altcoins, as well as the equivalent for NXT
+* ⭐️ Studied several PoW mining algorithms (including those from bitcion, litecoin (scrypt) and primecoin)
+* ⭐️ OpenCL/GPU implementation of the bitcion and litecoin mining algorithms
+* ⭐️ Trading bots for the BTC-E exchange
+* ⭐️ Interfaces to ripple, bter and mtgox to gather market data
+* ⭐️ Study parts of the bitcoin, Etherium, peercoin, memorycoin and bytecoin (cryptonote) source code
+* ⭐️ Setting up p2pools for altcoins
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tigthor&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
