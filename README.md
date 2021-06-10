@@ -5,7 +5,6 @@
       </strong></h3>
 I'm an expert-level developer with more than 10 years of development experience. I'm capable of handling much more complex code and working much faster than the vast majority of software developers.
 
-* ⭐️ Master of Science in Computer Science, option Embedded Systems.
 * ⭐️ Languages: C++, Javascript, Python, PHP, SQL, VHDL, Swift, Rust, Objective-C, Haskell, Asm, C, Java, Pascal, Delphi, Ruby, CoffeeScript
 * ⭐️ Libraries/Technologies: React, Vue, Angular, Redux, Next.js, Nginx, Apache, Websockets, Browser extensions/add-ons, webp, vorbis, flac, theora, vpx, ogg, png, zip, z, gmp, FreeType, cgicc, magick, bitcion, p2pool, CImg, OpenCL, OpenGL, OpenGL ES, OpenSLES, Core Audio Services, MPI, POSIX, iOs Camera Recording, Google Maps, Qt, GPU, FPGA, fabric (js), bitcion, ethereum, monero, Arrayent Internet-of-Things (IOT) cloud API, Cryptocurrency Exchange APIs, Node.js, Websockets, Backbone.js
 
