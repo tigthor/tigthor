@@ -34,7 +34,8 @@ I'm an expert-level developer with more than 10 years of development experience.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigthor&show_icons=true&count_private=true&locale=en&theme=cobalt" height="280" width="400" alt="tigthor" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tigthor)](https://git.io/streak-stats)
+
 
 ##
  
