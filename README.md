@@ -1,3 +1,6 @@
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+
 <h3 align="center">
    <strong><i>
       <font size="7" face="times new roman"> A Passionate Blockchain Architect & Web/Mobile Engineer | Ethereum Bitcoin Solana</font>
