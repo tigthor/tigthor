@@ -11,7 +11,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=Debugging+the+matrix+since+1337;Turning+coffee+into+code;System.out.println(%22Hello+World%22);while(!(succeed%3Dtry()));)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Debugging+the+matrix+since+1337;Turning+coffee+into+code;System.out.println(%22Hello+World%22);while(!(succeed%3Dtry()));%7B+code+%3D+life%3B+%7D;SELECT+*+FROM+universe+WHERE+bugs%3D0;import+antigravity%3B+%2F%2F+XKCD+reference;if(brain.isEmpty()){+coffee.refill()%3B+};sudo+chmod+777+%2Flife%2Fgoals%2F*;docker+run+-d+--name+success+life%3Alatest;%2F%2F+TODO%3A+Fix+the+universe;git+push+origin+universe+--force)](https://git.io/typing-svg)
 
 > *"In the realm of bits and bytes, we are all poets crafting reality through code."* 
 
@@ -50,32 +50,6 @@ class TechStack:
             self.learn_new_tech()
             self.build_cool_stuff()
             self.contribute_to_community()
-```
-
-## 🌌 Neural Activity Feed
-
-<!-- Snake -->
-<div align="center">
-    
-  ![snake gif](https://github.com/tigthor/tigthor/blob/output/github-snake.svg)
-</div>
-
-## 🎯 Current Quest Objectives
-
-````python
-class TechStack:
-    def __init__(self):
-        self.languages = ["Python", "JavaScript", "TypeScript", "Rust", "Go"]
-        self.frameworks = ["React", "Node.js", "Django", "Next.js"]
-        self.databases = ["PostgreSQL", "MongoDB", "Redis"]
-        self.tools = ["Docker", "Kubernetes", "AWS", "Git"]
-        self.interests = ["AI", "Blockchain", "System Design", "Open Source"]
-        
-    def level_up(self):
-        while True:
-            self.learn_new_tech()
-            self.build_cool_stuff()
-            self.contribute_to_community()
             
     def get_current_status(self):
         return {
@@ -86,7 +60,15 @@ class TechStack:
         }
 ```
 
+## 🌌 Neural Activity Feed
 
+<div align="center">
+  
+![snake gif](https://github.com/tigthor/tigthor/blob/output/github-snake.svg)
+
+</div>
+
+## 🎯 Current Quest Objectives
 
 ```javascript
 const currentMission = {
@@ -95,16 +77,9 @@ const currentMission = {
     "Mastering the Art of Clean Code",
     "Building Something Revolutionary",
     "Contributing to Open Source",
-    "Helping Fellow Developers",
-    "Exploring the Quantum Realm of Computing",
-    "Optimizing the Matrix"
+    "Helping Fellow Developers"
   ],
-  completion: "∞",
-  side_quests: [
-    "Debug the Universe",
-    "Refactor Reality",
-    "Optimize the Space-Time Complexity"
-  ]
+  completion: "∞"
 };
 ```
 
@@ -166,11 +141,3 @@ $ echo "01010100 01101000 01100101 00100000 01101011 01100101 01111001 00100000
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
-
-<!-- Hidden message in code -->
-<!--
-  01010100 01101000 01100101 00100000 01101011 01100101 01111001 00100000 
-  01110100 01101111 00100000 01110011 01110101 01100011 01100011 01100101 
-  01110011 01110011 00100000 01101001 01110011 00100000 01110000 01100101 
-  01110010 01110011 01101001 01110011 01110100 01100101 01101110 01100011 01100101
--->
