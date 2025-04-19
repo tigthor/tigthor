@@ -1,0 +1,33 @@
+name: Dynamic Quote Generator
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update README with new quote
+        run: |
+          python .github/scripts/update_quote.py
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "Quote Bot"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Daily wisdom update" && git push) 
