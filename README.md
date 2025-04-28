@@ -87,7 +87,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The journey of a thousand programs begins with a single line."*
+*"Your code is a mirror reflecting your thought process."*
 
 </div>
 
