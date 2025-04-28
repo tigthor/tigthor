@@ -87,7 +87,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Code without tests is like a ship without a compass."*
+*"Debug your mind before debugging your code."*
 
 </div>
 
