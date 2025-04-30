@@ -87,7 +87,7 @@ const currentMission = {
 
 <div align="center">
 
-*"In the binary forest of ones and zeros, wisdom grows in recursive patterns."*
+*"In the realm of bits, we are all artists painting with logic."*
 
 </div>
 
