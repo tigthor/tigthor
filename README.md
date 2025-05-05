@@ -87,7 +87,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The most elegant solution is often hidden in the simplest approach."*
+*"The journey of a thousand programs begins with a single line."*
 
 </div>
 
