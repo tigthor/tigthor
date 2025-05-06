@@ -87,7 +87,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The most dangerous code is the code you think you understand."*
+*"Complexity is the enemy of clarity."*
 
 </div>
 
