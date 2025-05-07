@@ -87,7 +87,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Your code is a mirror reflecting your thought process."*
+*"The best code is like a good story - it needs no explanation."*
 
 </div>
 
