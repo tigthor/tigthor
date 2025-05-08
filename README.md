@@ -21,19 +21,6 @@
 
 </div>
 
-## 🌟 Quantum Stats Matrix
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tigthor&show_icons=true&theme=matrix&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigthor&theme=matrix&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
 ## 🎮 Tech Arsenal
 
 ```python
