@@ -87,7 +87,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The journey of a thousand programs begins with a single line."*
+*"Every function is a poem written in the language of logic."*
 
 </div>
 
