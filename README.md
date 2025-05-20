@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The most elegant solution is often hidden in the simplest approach."*
+*"In the realm of bits, we are all artists painting with logic."*
 
 </div>
 
