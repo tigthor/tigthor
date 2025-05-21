@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Complexity is the enemy of clarity."*
+*"Every function is a poem written in the language of logic."*
 
 </div>
 
