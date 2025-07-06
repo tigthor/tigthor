@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The journey of a thousand programs begins with a single line."*
+*"Code without tests is like a ship without a compass."*
 
 </div>
 
