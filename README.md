@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The best programs are written in the spaces between thoughts."*
+*"The most dangerous code is the code you think you understand."*
 
 </div>
 
