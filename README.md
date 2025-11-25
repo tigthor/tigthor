@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Complexity is the enemy of clarity."*
+*"The path to mastery is paved with countless compile errors."*
 
 </div>
 
