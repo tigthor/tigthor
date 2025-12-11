@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Every function is a poem written in the language of logic."*
+*"Code without tests is like a ship without a compass."*
 
 </div>
 
