@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Code without tests is like a ship without a compass."*
+*"The most dangerous code is the code you think you understand."*
 
 </div>
 
