@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The most dangerous code is the code you think you understand."*
+*"Every bug fixed is a lesson learned in the grand tapestry of programming."*
 
 </div>
 
