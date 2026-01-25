@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Code without tests is like a ship without a compass."*
+*"In the binary forest of ones and zeros, wisdom grows in recursive patterns."*
 
 </div>
 
