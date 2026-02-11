@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The best programs are written in the spaces between thoughts."*
+*"Your code is a mirror reflecting your thought process."*
 
 </div>
 
