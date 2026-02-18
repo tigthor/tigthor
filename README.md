@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"In the realm of bits, we are all artists painting with logic."*
+*"The best code is like a good story - it needs no explanation."*
 
 </div>
 
