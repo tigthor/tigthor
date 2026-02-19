@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The journey of a thousand programs begins with a single line."*
+*"In the silence between keystrokes, solutions emerge."*
 
 </div>
 
