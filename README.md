@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"In the silence between keystrokes, solutions emerge."*
+*"In the binary forest of ones and zeros, wisdom grows in recursive patterns."*
 
 </div>
 
