@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"In the silence between keystrokes, solutions emerge."*
+*"The most dangerous code is the code you think you understand."*
 
 </div>
 
