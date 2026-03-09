@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Every bug fixed is a lesson learned in the grand tapestry of programming."*
+*"In the binary forest of ones and zeros, wisdom grows in recursive patterns."*
 
 </div>
 
