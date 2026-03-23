@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The best code is like a good story - it needs no explanation."*
+*"The journey of a thousand programs begins with a single line."*
 
 </div>
 
