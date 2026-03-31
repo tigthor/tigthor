@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"In the realm of bits, we are all artists painting with logic."*
+*"In the silence between keystrokes, solutions emerge."*
 
 </div>
 
