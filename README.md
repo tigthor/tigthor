@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The best programs are written in the spaces between thoughts."*
+*"The journey of a thousand programs begins with a single line."*
 
 </div>
 
