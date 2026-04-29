@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Every bug fixed is a lesson learned in the grand tapestry of programming."*
+*"Code without tests is like a ship without a compass."*
 
 </div>
 
