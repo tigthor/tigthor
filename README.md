@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The best code is like a good story - it needs no explanation."*
+*"Every function is a poem written in the language of logic."*
 
 </div>
 
