@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Complexity is the enemy of clarity."*
+*"Every bug fixed is a lesson learned in the grand tapestry of programming."*
 
 </div>
 
