@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Every bug fixed is a lesson learned in the grand tapestry of programming."*
+*"The most elegant solution is often hidden in the simplest approach."*
 
 </div>
 
