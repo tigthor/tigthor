@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"In the silence between keystrokes, solutions emerge."*
+*"The most elegant solution is often hidden in the simplest approach."*
 
 </div>
 
