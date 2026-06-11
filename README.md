@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Your code is a mirror reflecting your thought process."*
+*"Debug your mind before debugging your code."*
 
 </div>
 
