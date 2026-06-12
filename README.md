@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Complexity is the enemy of clarity."*
+*"In the binary forest of ones and zeros, wisdom grows in recursive patterns."*
 
 </div>
 
