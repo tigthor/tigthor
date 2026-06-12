@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"Debug your mind before debugging your code."*
+*"Every bug fixed is a lesson learned in the grand tapestry of programming."*
 
 </div>
 
