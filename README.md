@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The path to mastery is paved with countless compile errors."*
+*"The most elegant solution is often hidden in the simplest approach."*
 
 </div>
 
