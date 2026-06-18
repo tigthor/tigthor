@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"The most dangerous code is the code you think you understand."*
+*"Every function is a poem written in the language of logic."*
 
 </div>
 
