@@ -74,7 +74,7 @@ const currentMission = {
 
 <div align="center">
 
-*"In the binary forest of ones and zeros, wisdom grows in recursive patterns."*
+*"Your code is a mirror reflecting your thought process."*
 
 </div>
 
